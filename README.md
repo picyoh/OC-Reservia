@@ -1,2 +1,1 @@
-# PicotYohann_2_28042021
-Projet 2
+Projet 2 OpenClassrooms
